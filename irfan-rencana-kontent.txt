@@ -3,6 +3,7 @@ rencana konten :
   - ES 6
   - FRAMEWORK JAVASCRIPT
     ^ VUE
+    ^ React
 - Struktur Data Dasar
 - PHP Framework
   ^ Laravel
