@@ -1,5 +1,7 @@
 rencana konten :
 - Javascript
+  - ES 6
+  - FRAMEWORK JAVASCRIPT
 - PHP Framework
 - Interview
 - Vlog
