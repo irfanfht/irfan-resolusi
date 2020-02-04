@@ -2,9 +2,11 @@ rencana konten :
 - Javascript
   - ES 6
   - FRAMEWORK JAVASCRIPT
-    ^ Angular
+    ^ VUE
     ^ React
+- Struktur Data Dasar
 - PHP Framework
   ^ Laravel
 - Interview
 - Vlog
+- Python
